@@ -1,4 +1,6 @@
 # sonicAI
+Reprograming in course.... Accidentally forgot to push to master before erasing windows :)
+
 Convolutional network to play sonic all stars racing
 
 INDEVELOPMENT PLEASE BE PATIENT
